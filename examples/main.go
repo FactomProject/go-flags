@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/btcsuite/go-flags"
+	"github.com/FactomProject/go-flags"
 	"os"
 	"strconv"
 	"strings"
